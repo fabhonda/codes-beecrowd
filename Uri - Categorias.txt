@@ -1,0 +1,41 @@
+STRINGS:
+- Palíndromos
+- Frequência
+- Ad-Hoc
+- LCS
+- Manipulação de Strings
+
+ESTRUTURAS E BIBLIOTECAS
+- Filas
+- Pilhas
+- Ordenação
+- Mapas
+
+MATEMÁTICA
+- Sistemas Numéricos
+- Números Primos
+- BigInteger
+
+PARADIGMAS
+- Programação Dinâmica
+- Busca Binária
+- Gulosos
+- Backtracking
+
+GRAFOS
+- Flood Fill
+- MST
+- SSSP
+- DAG
+- Fluxo Máximo
+- Árvores
+
+GEOMETRIA COMPUTACIONAL
+- Pontos e Linhas
+- Polígonos
+
+SQL
+- Seleção
+- Inserção
+- Atualização
+- Criação
